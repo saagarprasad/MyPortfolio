@@ -13,7 +13,7 @@ const Projects = () => {
             {
                 image: './images/myportfolio.jpg',
                 description: 'My Portfolio website. Built with React.js and Tailwind css.',
-                link: 'https://github.com/jvlcode/food',
+                link: 'https://github.com/saagarprasad/MyPortfolio',
                 websitelink: ''
             }
         ]
